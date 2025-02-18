@@ -30,6 +30,8 @@
  
 ## 安装方法
 
+在ComfyUI\custom_nodes执行git clone https://github.com/chenpipi0807/PIP_Prompt.git
+
 ## 使用方法
 
 1. 基本使用
