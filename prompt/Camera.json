@@ -1,0 +1,50 @@
+[
+    {
+        "name": "none",
+        "prompt": ""
+    },
+    {
+        "name": "景深",
+        "prompt": "Depth of field"
+    },
+    {
+        "name": "全景",
+        "prompt": "Panorama"
+    },
+    {
+        "name": "长焦镜头",
+        "prompt": "telephoto lens"
+    },
+    {
+        "name": "微距镜头",
+        "prompt": "macro lens"
+    },
+    {
+        "name": "全身镜头",
+        "prompt": "full body"
+    },
+    {
+        "name": "中景镜头",
+        "prompt": "medium shot"
+    },
+    {
+        "name": "七分身镜头",
+        "prompt": "cowboy shot"
+    },
+    {
+        "name": "半身像",
+        "prompt": "profile picture"
+    },
+    {
+        "name": "写实肖像",
+        "prompt": "close up portrait"
+    },
+    {
+        "name": "第一人称视角",
+        "prompt": "POV"
+    },
+    {
+        "name": "鱼眼镜头",
+        "prompt": "fisheye"
+    }
+]

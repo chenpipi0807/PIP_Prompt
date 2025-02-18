@@ -1,0 +1,38 @@
+[
+    {
+        "name": "none",
+        "prompt": ""
+    },
+    {
+        "name": "宝可梦",
+        "prompt": "pokemon"
+    },
+    {
+        "name": "泰迪熊",
+        "prompt": "teddy bear"
+    },
+    {
+        "name": "马里奥",
+        "prompt": "mario"
+    },
+    {
+        "name": "皮卡丘",
+        "prompt": "pikachu"
+    },
+    {
+        "name": "新世纪福音战士",
+        "prompt": "neon genesis evangelion"
+    },
+    {
+        "name": "初音未来",
+        "prompt": "hatsune miku"
+    },
+    {
+        "name": "哈利波特",
+        "prompt": "harry potter"
+    },
+    {
+        "name": "哆啦A梦",
+        "prompt": "doraemon"
+    }
+]

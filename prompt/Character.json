@@ -1,0 +1,38 @@
+[
+    {
+        "name": "none",
+        "prompt": ""
+    },
+    {
+        "name": "女性",
+        "prompt": "female"
+    },
+    {
+        "name": "男性",
+        "prompt": "male"
+    },
+    {
+        "name": "女孩",
+        "prompt": "girl"
+    },
+    {
+        "name": "男孩",
+        "prompt": "boy"
+    },
+    {
+        "name": "正太",
+        "prompt": "shota"
+    },
+    {
+        "name": "萝莉",
+        "prompt": "loli"
+    },
+    {
+        "name": "美少女",
+        "prompt": "bishoujo"
+    },
+    {
+        "name": "美少男",
+        "prompt": "bishounen"
+    }
+]

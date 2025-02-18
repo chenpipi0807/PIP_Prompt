@@ -1,0 +1,46 @@
+[
+    {
+        "name": "none",
+        "prompt": ""
+    },
+    {
+        "name": "佳能",
+        "prompt": "canon"
+    },
+    {
+        "name": "富士",
+        "prompt": "fujifilm"
+    },
+    {
+        "name": "索尼",
+        "prompt": "sony fe gm"
+    },
+    {
+        "name": "特写",
+        "prompt": "close up"
+    },
+    {
+        "name": "黄金比例",
+        "prompt": "golden ratio composition"
+    },
+    {
+        "name": "鸟瞰图",
+        "prompt": "bird view"
+    },
+    {
+        "name": "全身",
+        "prompt": "full body"
+    },
+    {
+        "name": "散景",
+        "prompt": "bokeh"
+    },
+    {
+        "name": "侧面轮廓",
+        "prompt": "profile"
+    },
+    {
+        "name": "三分法",
+        "prompt": "rule of thirds composition"
+    }
+]

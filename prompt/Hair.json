@@ -1,0 +1,54 @@
+[
+    {
+        "name": "none",
+        "prompt": ""
+    },
+    {
+        "name": "短发",
+        "prompt": "short hair"
+    },
+    {
+        "name": "中发",
+        "prompt": "medium hair"
+    },
+    {
+        "name": "长发",
+        "prompt": "long hair"
+    },
+    {
+        "name": "头发过肩",
+        "prompt": "hair over shoulder"
+    },
+    {
+        "name": "白发",
+        "prompt": "white hair"
+    },
+    {
+        "name": "金发",
+        "prompt": "blonde hair"
+    },
+    {
+        "name": "银发",
+        "prompt": "silver hair"
+    },
+    {
+        "name": "黑发",
+        "prompt": "black hair"
+    },
+    {
+        "name": "双马尾",
+        "prompt": "twintails"
+    },
+    {
+        "name": "马尾辫",
+        "prompt": "ponytail"
+    },
+    {
+        "name": "呆毛",
+        "prompt": "ahoge"
+    },
+    {
+        "name": "公主切",
+        "prompt": "hime_cut"
+    }
+]

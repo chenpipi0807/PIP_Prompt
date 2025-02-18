@@ -1,0 +1,62 @@
+[
+    {
+        "name": "none",
+        "prompt": ""
+    },
+    {
+        "name": "8bit游戏",
+        "prompt": "8 Bit Game"
+    },
+    {
+        "name": "80年代动画",
+        "prompt": "1980s anime"
+    },
+    {
+        "name": "迪士尼风格",
+        "prompt": "disney movie"
+    },
+    {
+        "name": "吉卜力风格",
+        "prompt": "Studio Ghibli"
+    },
+    {
+        "name": "原神风格",
+        "prompt": "genshin impact"
+    },
+    {
+        "name": "水墨画",
+        "prompt": "ink painting"
+    },
+    {
+        "name": "动漫",
+        "prompt": "anime"
+    },
+    {
+        "name": "赛博朋克",
+        "prompt": "cyberpunk"
+    },
+    {
+        "name": "水彩",
+        "prompt": "watercolor"
+    },
+    {
+        "name": "像素艺术",
+        "prompt": "pixel art"
+    },
+    {
+        "name": "复古",
+        "prompt": "vintage"
+    },
+    {
+        "name": "现实的",
+        "prompt": "realistic"
+    },
+    {
+        "name": "超现实主义",
+        "prompt": "hyperrealism"
+    },
+    {
+        "name": "中式",
+        "prompt": "chinese-style"
+    }
+]

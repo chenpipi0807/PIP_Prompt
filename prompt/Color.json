@@ -1,0 +1,50 @@
+[
+    {
+        "name": "none",
+        "prompt": ""
+    },
+    {
+        "name": "薰衣草色",
+        "prompt": "Lavender"
+    },
+    {
+        "name": "蒂芙尼蓝",
+        "prompt": "tiffany blue"
+    },
+    {
+        "name": "中国红",
+        "prompt": "chinese red"
+    },
+    {
+        "name": "绿松石色",
+        "prompt": "Turquoise"
+    },
+    {
+        "name": "爱马仕橙色",
+        "prompt": "hermes orange"
+    },
+    {
+        "name": "莫兰迪色系",
+        "prompt": "morandi color"
+    },
+    {
+        "name": "森林绿",
+        "prompt": "forest green"
+    },
+    {
+        "name": "玫瑰金",
+        "prompt": "rose gold"
+    },
+    {
+        "name": "珊瑚色",
+        "prompt": "coral"
+    },
+    {
+        "name": "景泰蓝",
+        "prompt": "cloisonne blue"
+    },
+    {
+        "name": "雳兰蓝和芥末",
+        "prompt": "uranian blue and mustard"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "none",
+        "prompt": ""
+    },
+    {
+        "name": "浓眉",
+        "prompt": "thick eyebrows"
+    },
+    {
+        "name": "眉毛翘起",
+        "prompt": "cocked eyebrow"
+    },
+    {
+        "name": "短眉毛",
+        "prompt": "short eyebrows"
+    },
+    {
+        "name": "V字眉",
+        "prompt": "v-shaped eyebrows"
+    },
+    {
+        "name": "空洞眼睛",
+        "prompt": "empty eyes"
+    },
+    {
+        "name": "睁大眼睛",
+        "prompt": "wide eyes"
+    },
+    {
+        "name": "闭上一只眼",
+        "prompt": "one eye closed"
+    },
+    {
+        "name": "半闭眼睛",
+        "prompt": "half-closed eyes"
+    },
+    {
+        "name": "渐变眼",
+        "prompt": "gradient_eyes"
+    },
+    {
+        "name": "水汪汪大眼",
+        "prompt": "aqua eyes"
+    },
+    {
+        "name": "翻白眼",
+        "prompt": "rolling eyes"
+    }
+]

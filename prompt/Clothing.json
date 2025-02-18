@@ -1,0 +1,46 @@
+[
+    {
+        "name": "none",
+        "prompt": ""
+    },
+    {
+        "name": "背心",
+        "prompt": "tank top"
+    },
+    {
+        "name": "白衬衫",
+        "prompt": "white shirt"
+    },
+    {
+        "name": "T恤",
+        "prompt": "T-shirt"
+    },
+    {
+        "name": "毛衣",
+        "prompt": "sweater"
+    },
+    {
+        "name": "连帽衫",
+        "prompt": "hoodie"
+    },
+    {
+        "name": "夹克",
+        "prompt": "jacket"
+    },
+    {
+        "name": "西装",
+        "prompt": "suit"
+    },
+    {
+        "name": "军装",
+        "prompt": "military uniform"
+    },
+    {
+        "name": "和服",
+        "prompt": "japanese clothes"
+    },
+    {
+        "name": "婚纱",
+        "prompt": "wedding dress"
+    }
+]

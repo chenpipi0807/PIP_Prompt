@@ -1,0 +1,42 @@
+[
+    {
+        "name": "none",
+        "prompt": ""
+    },
+    {
+        "name": "发带",
+        "prompt": "hair ribbon"
+    },
+    {
+        "name": "头巾",
+        "prompt": "head scarf"
+    },
+    {
+        "name": "蝴蝶结发饰",
+        "prompt": "hair bow"
+    },
+    {
+        "name": "项圈",
+        "prompt": "choker"
+    },
+    {
+        "name": "戒指",
+        "prompt": "ring"
+    },
+    {
+        "name": "手链",
+        "prompt": "bracelet"
+    },
+    {
+        "name": "耳环",
+        "prompt": "earrings"
+    },
+    {
+        "name": "皇冠",
+        "prompt": "tiara"
+    },
+    {
+        "name": "眼镜",
+        "prompt": "glasses"
+    }
+]

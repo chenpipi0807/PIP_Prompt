@@ -1,0 +1,26 @@
+[
+    {
+        "name": "none",
+        "prompt": ""
+    },
+    {
+        "name": "单人",
+        "prompt": "solo"
+    },
+    {
+        "name": "多个女孩",
+        "prompt": "multiple girls"
+    },
+    {
+        "name": "双胞胎",
+        "prompt": "twins"
+    },
+    {
+        "name": "三胞胎",
+        "prompt": "triplets"
+    },
+    {
+        "name": "兄弟姐妹",
+        "prompt": "brother and sister"
+    }
+]

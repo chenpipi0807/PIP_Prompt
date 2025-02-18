@@ -1,0 +1,62 @@
+[
+    {
+        "name": "none",
+        "prompt": ""
+    },
+    {
+        "name": "救生员",
+        "prompt": "lifeguard"
+    },
+    {
+        "name": "拳击手",
+        "prompt": "boxer"
+    },
+    {
+        "name": "科学家",
+        "prompt": "scientist"
+    },
+    {
+        "name": "运动员",
+        "prompt": "athletes"
+    },
+    {
+        "name": "职场女性",
+        "prompt": "office lady"
+    },
+    {
+        "name": "和尚",
+        "prompt": "monk"
+    },
+    {
+        "name": "修女",
+        "prompt": "nun"
+    },
+    {
+        "name": "护士",
+        "prompt": "nurse"
+    },
+    {
+        "name": "空姐",
+        "prompt": "stewardess"
+    },
+    {
+        "name": "学生",
+        "prompt": "student"
+    },
+    {
+        "name": "女服务员",
+        "prompt": "waitress"
+    },
+    {
+        "name": "老师",
+        "prompt": "teacher"
+    },
+    {
+        "name": "警察",
+        "prompt": "police"
+    },
+    {
+        "name": "士兵",
+        "prompt": "soldier"
+    }
+]

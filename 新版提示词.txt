@@ -1,0 +1,1341 @@
+镜头视角
+景深 Depth of field
+全景 Panorama
+长焦镜头 telephoto lens
+微距镜头 macro lens
+全身镜头 full body
+中景镜头 medium shot
+七分身镜头 cowboy shot
+半身像 (profile picture)
+写实肖像 close up portrait
+第一人称视角 POV
+鱼眼镜头 fisheye
+部分水下拍摄 partially underwater shot
+产品视图product view
+卫星视图satelite view
+前视图 侧视图后视图front，side，rear view
+电影拍摄cinematic shot
+第三人称视角third-person perspective
+背光风格 backlight style
+眼睛水平eye level
+横向滚动视角side-scrolling perspective
+极端特写视图extreme closeup view
+超宽镜头ultra wide shot
+广角镜头wide-angle view
+风景拍摄scenery shot
+全场镜头full length shot
+大气视角atmospheric perspective
+过肩拍摄over the shoulder shot
+消失点vanishing point
+高角度视图high angle view
+模糊的前景blurry foreground
+超级侧角super side angle
+抬头看look up
+远景视图long-shot view
+腰部拍摄waist shot
+底部视图bottom view
+严密拍摄tight shot
+超长镜头extra long shot
+中长镜头medium long shot
+360视图360 view
+模拟相机simulated camera
+海拔视角elevation perspective
+头顶overhead
+顶视图top view
+倾斜-移位tilt-shift
+第一人称视角first-person perspective
+极端特写extreme close-up
+特写视图close-up view
+全景panorama
+动态的dynamic
+大特写big close-up
+从外面 from outside
+多个视图 multiple views
+颠倒upside-down
+细节拍摄detail shot
+低角度拍摄 low angle shot
+等距视图isometric view
+关注相机follow camera
+
+角色类型
+
+女性 female
+男性 male
+女孩 girl
+男孩 boy
+正太 shota
+萝莉 loli
+美少女 bishoujo
+美少男 bishounen
+辣妹 gyaru
+大小姐 ojousama
+Q版人物 chibi
+胖子 fat man
+伪娘 crossdressing
+天使 angel
+魔鬼 devil
+迷你女孩 minigirl
+非人 no_humans
+雌小鬼 mesugaki
+怪物 monster
+老人 elder
+富豪 rich man
+乞丐 beggar
+巨人 titans
+侏儒 dwarf
+小丑 clown
+奴隶 slave
+雪女 yukiwo
+酋长 sheik
+女王 queen
+女神 goddess
+公主 princess
+王子 prince
+新娘 bride
+新郎 bridegroom
+肌肉男 muscle man
+偶像 idol
+兔女郎 bunny girl
+怪物女孩 monster girl
+狐狸女孩 fox girl
+狼女孩 wolf girl
+猫女孩 cat girl
+木偶 marionette
+黏土手办 nendoroid
+数量
+
+单人 solo
+多个女孩 multiple girls
+双胞胎 twins
+三胞胎 triplets
+兄弟姐妹 brother and sister
+
+职业
+
+救生员 lifeguard
+拳击手 boxer
+科学家 scientist
+运动员 athletes
+职场女性 office lady
+和尚 monk
+杂技演员 crobat
+修女 nun
+护士 nurse
+空姐 stewardess
+学生 student
+女服务员 waitress
+老师 teacher
+赛车手 racer
+警察 police
+士兵 soldier
+啦啦队 cheerleader
+男演员 actor
+女演员 actress
+间谍 spy
+特工 agent
+刺客 assassin
+诗人 poet
+日本武士 samurai
+舞女 dancing girl
+摩托车手 motorcyclist
+黑客 hacker
+魔术师 magician
+侦探 detective
+人偶 doll
+女仆 maid
+飞行员 pilot
+潜水员 diver
+酒吧审查员 bar censor
+传教士 missionary
+消防员 firefighter
+守门员 goalkeeper
+厨师 chef
+宇航员 astronaut
+收银员 cashier
+邮递员 mailman
+咖啡师 barista
+隐士 the hermit
+牧羊人 makihitsuji
+动漫
+
+宝可梦 pokemon
+泰迪熊 teddy bear
+马里奥 mario
+皮卡丘 pikachu
+新世纪福音战士 neon genesis evangelion
+初音未来 hatsune miku
+哈利波特 harry potter
+哆啦A梦 doraemon
+圣斗士星矢 saint seiya
+五条悟 gojou satoru
+复仇者联盟 avengers
+神奇女侠 mazinger
+美国队长 captain america
+蜡笔小新 crayon shin-chan
+灌篮高手 slam dunk
+孙悟空 sun wukong
+女巫 witch
+忍者 ninja
+吸血鬼 vampire
+骑士 knight
+魔法少女 magical_girl
+半兽人 orc
+德鲁伊 druid
+妖精 elf
+小精灵 fairy
+兽人 furry
+美人鱼 mermaid
+假面骑士 kamen rider
+魔导师 magister
+蜘蛛侠 spider-man
+圣诞老人 santa alter
+
+
+五官
+眉毛
+
+浓眉 thick eyebrows
+眉毛翘起 cocked eyebrow
+短眉毛 short eyebrows
+V字眉 v-shaped eyebrows
+眼睛
+
+空洞眼睛 empty eyes
+睁大眼睛 wide eyes
+闭上一只眼 one eye closed
+半闭眼睛 half-closed eyes
+渐变眼 gradient_eyes
+水汪汪大眼 aqua eyes
+翻白眼 rolling eyes
+斗鸡眼 cross-eyed
+猫眼 slit pupils
+布满血丝的眼睛 bloodshot eyes
+发光眼睛 glowing eyes
+吊眼角 tsurime
+垂眼角 tareme
+恶魔眼 devil eyes
+收缩的瞳孔 constricted pupils
+魔瞳 devil pupils
+蛇瞳 snake pupils
+闪闪发光瞳 pupils sparkling
+花形瞳 flower-shaped pupils
+爱心瞳 heart-shaped pupils
+异色瞳 heterochromia
+美瞳 color contact lenses
+长睫毛 longeyelashes
+彩色睫毛 colored eyelashes
+眼下痣 mole under eye
+嘴巴
+
+栗子嘴 chestnut mouth
+厚嘴唇 thick lips
+嘴唇浮肿 puffy lips
+口红 lipstick
+心形嘴 heart-shaped mouth
+嘟嘴 pout
+张嘴 open mouth
+闭嘴 closed mouth
+猫咪嘴 ：3
+鲨鱼嘴 shark mouth
+吐舌头 :p
+分开嘴唇 parted lips
+嘴下痣 mole under mouth
+耳朵
+
+动物耳朵 fake animal ears
+猫耳朵 cat ears
+狗耳朵 dog ears
+狐狸耳朵 fox ears
+兔子耳朵 bunny ears
+熊耳朵 bear ears
+胡子&牙
+
+胡须 beard
+小胡子 mustache
+山羊胡 goatee
+长鬓角 long sideburns
+尖牙 fangs
+虎牙 canine teeth
+咬紧牙关 clenched teeth
+
+表情
+表情
+
+无表情 expressionless
+脸色苍白 turn pale
+2D脸红 blush stickers
+脸红 blush
+两眼发直 blank stare
+青筋凸起 anger vein
+尴尬 embarrassed
+傲慢 hubrael
+郁闷 depressed
+畏缩 wince
+烦恼 kilesha
+阴暗脸 shaded face
+疼痛 pain
+尖叫 screaming
+叹息 sigh
+紧张 nervous
+困惑 confused
+害怕 scared
+喝醉 drunk
+哭 tears
+悲伤 sad
+生气 angry
+害羞 nose blush
+严肃 serious
+鄙夷 jitome
+疯狂 crazy
+黑化 dark_persona
+得意 smug
+思考中 thinking
+扬眉 raised eyebrow
+轻皱眉 light frown
+皱眉 frown
+调皮脸 naughty face
+做鬼脸 eyeid pull
+流鼻血 nosebleed
+困 sleepy
+眯眼 zzz
+流口水 drooling
+笑容
+
+微笑 light smile
+假笑 false smile
+挑逗笑容 seductive smile
+疯狂笑容 crazy smile
+邪恶笑容 evil smile
+单侧嘴角上扬 smirk
+诱人笑容 seductive smile
+露齿笑 grin
+大笑 laughing
+杯型笑脸 :d
+
+头发
+长度
+
+短发 short hair
+中发 medium hair
+长发 long hair
+头发过肩 hair over shoulder
+颜色
+
+白发 white hair
+金发 blonde hair
+银发 silver hair
+灰发 grey hair
+棕发 brown hair
+黑发 black hair
+紫发 purple hair
+红发 red hair
+蓝发 blue hair
+绿发 green hair
+粉发 pink hair
+橙发 orange hair
+挑染 streaked hair
+彩发 multicolored hair
+彩虹发 rainbow-like hair
+刘海
+
+刘海 bangs
+交叉刘海 crossed bang
+眉间刘海 hair between eye
+齐刘海 blunt bangs
+斜刘海 diagonal bangs
+不对称刘海 asymmetrical bangs
+编织刘海 braided bangs
+辫子
+
+短马尾 short ponytail
+侧马尾辫 side ponytail
+前马尾辫 front ponytail
+分裂马尾辫 split ponytail
+低马尾辩 low twintails
+短马尾辫 short twintails
+侧边辫子 side braid
+辫子 braid
+双辫子 twin braids
+马尾辫 ponytail
+编织马尾 braided ponytail
+法式辫 french braid
+麻花辫 twists
+高马尾 high ponytail
+发型
+
+扎头发 tied hair
+单侧发髻 single side bun
+卷发 curly hair
+直发 straight hair
+波浪头 wavy hair
+波波头 bob hair
+侧分 slicked-back
+雷鬼头 Reggae hair
+蓬巴杜发型 pompadour
+莫西干头 Mohawk
+锅盖头 bowl cut
+呆毛 ahoge
+天线呆毛 antenna hair
+心形呆毛 heart ahoge
+公主卷 drill hair
+翼状发 hair wings
+蓬发 disheveled hair
+凌乱发 messy hair
+露颈盘发 chignon
+编织发髻 braided bun
+公主切 hime_cut
+妹妹切 bob cut
+刺猬头 spiked hair
+盘发 updo
+精灵短发 pixie cut
+长发绺 dreadlocks
+爆炸头 afro
+秃头 bald
+双丸子头 double bun
+美式寸头 buzz cut
+大体积蓬松头发 big hair
+闪亮的头发 shiny hair
+发光的头发 glowing hair
+眼睛间的头发 hair between eyes
+撩到耳后 hair behind ear
+装饰
+发饰
+
+发带 hair ribbon
+头巾 head scarf
+动物头巾 animal hood
+蝴蝶结发饰 hair bow
+新月发饰 crescent hair ornament
+洛丽塔发饰 lolita hairband
+羽毛发饰 feather hair ornament
+头花 hair flower
+发髻 hair bun
+发夹 hairclip
+发箍 hair scrunchie
+发圈 hair rings
+发饰 hair ornament
+发棒 hair stick
+心形发饰 heart hair ornament
+首饰
+
+手链 bracelet
+项圈 choker
+金属项圈 metal collar
+戒指 ring
+腕带 wristband
+吊坠 pendant
+胸针 brooch
+圈形耳环 hoop earrings
+手镯 bangle
+耳钉 stud earrings
+旭日形首饰 sunburst
+珍珠手链 pearl bracelet
+耳坠 drop earrings
+木偶戒指 puppet rings
+胸花 corsage
+蓝宝石胸针 sapphire brooch
+珠宝首饰 jewelry
+项链 necklace
+装饰
+
+丝带 ribbon
+丝带饰边 ribbon trim
+蕾丝饰边 lace trim
+裙撑 skirt lift
+护手 gauntlets
+领巾 neckerchief
+红领巾 red neckerchief
+肩章 pauldrons
+臂带 arm strap
+臂镯 armlet
+细肩带 spaghetti strap
+般若面具 Prajna in mask
+面纱 veil
+新娘面纱 bridal veil
+皇冠 tiara
+迷你皇冠 mini crown
+耳罩 ear covers
+飞行员太阳镜 aviator sunglasses
+无边框眼镜 semi-rimless eyewear
+半无框眼镜 semi-rimless eyewear
+太阳镜 sunglasses
+风镜 goggles
+独眼眼罩 eyepatch
+黑色眼罩 black blindfold
+铁棘 metal thorns
+光环 halo
+口罩 mouth mask
+创口贴 bandaid hair ornament
+指甲油 nail polish
+玩偶关节 doll joints
+机械义肢 cybernetic prosthesis
+机械腿 mechanical legs
+沙滩巾 beach towel
+雨披 poncho
+浓妆 make up
+服装
+上装
+
+过手袖 sleeves_past_fingers
+背心 tank top
+白衬衫 white shirt
+水手衬衫 sailor shirt
+T恤 T-shirt
+毛衣 sweater
+夏日长裙 summer dress
+连帽衫 hoodie
+毛领 fur trimmed colla
+兜帽斗篷 hooded cloak
+夹克 jacket
+皮夹克 leather jacket
+探险家夹克 safari jacket
+兜帽 hood
+牛仔夹克 denim jacket
+高领夹克 turtleneck jacket
+消防员夹克 firefighter jacket
+透明夹克 see-through jacket
+战壕大衣 trench coat
+实验室外套 lab coat
+羽绒服 Down Jackets
+防弹盔甲 body armor
+防弹衣 flak jacket
+大衣 overcoat
+粗呢大衣 duffel coat
+服装
+
+透视装 transparent clothes
+燕尾服 tailcoat
+女仆装 Victoria black maid dress
+水手服 sailor suit
+学生服 school uniform
+职场制服 bussiness suit
+西装 suit
+军装 military uniform
+礼服 lucency full dress
+汉服 hanfu
+旗袍 cheongsam
+和服 japanses clothes
+运动服 sportswear
+工装服 dungarees
+婚纱 wedding dress
+银色连衣裙 silvercleavage dress
+长袍 robe
+围裙 apron
+快餐制服 fast food uniform
+健身服 gym_uniform
+巫女服 miko attire
+海军陆战队服 SWAT uniform
+无袖连衣裙 sleeveless dress
+雨衣 raincoat
+机甲衣 mech suit
+巫师法袍 wizard robe
+刺客装束 assassin-style
+下装
+
+牛仔短裤 denim shorts
+百褶裙 pleated skirt
+热裤 short shorts
+铅笔裙 pencil skirt
+皮裙 leather skirt
+黑色紧身裤 black leggings
+和服下的裙子 skirt under kimono
+其他服装
+
+褶边 frills
+花边 lace
+哥特风格 gothic
+洛丽塔风格 lolita fashion
+西部风格 western
+湿身 wet clothes
+露单肩 off_shoulder
+露双肩 bare_shoulders
+格子花纹 tartan
+横条花纹 striped
+披甲 armored skirt
+盔甲 armor
+金属盔甲 metal armor
+狂战士铠甲 berserker armor
+腰带 belt
+围巾 scarf
+披肩 cape
+皮草披肩 fur shawl
+鞋饰
+帽饰
+
+棒球帽 Baseball cap
+针织帽 Beanie
+拿破仑帽 Bicorne
+太阳帽 Boater hat
+遮阳帽 Visor cap
+圆顶礼帽 Bowler hat
+报童帽 Cabbie hat
+渔夫帽 Bucket hat
+侦探帽 Fedora
+牛仔帽 Cowboy hat
+厨师帽 Chef hat
+军官帽 Military hat
+圣诞帽 Santa hat
+派对帽 Party hat
+小丑帽 Jester cap
+安全帽 Hardhat
+棒球头盔 Baseball helmet
+橄榄球头盔 Football helmet
+动物头盔 animal helmet
+女巫帽 witch hat
+贝雷帽 beret
+鸭舌帽 peaked cap
+草帽 Straw hat
+鞋类
+
+裸足 bare_legs
+靴子 boots
+马丁靴 knee boots
+脚踝靴 ankle boots
+系带靴 cross-laced_footwear
+战斗靴 combat boots
+装甲靴 armored boots
+过膝靴 knee boots
+防水橡胶靴 rubber boots
+皮靴 leather boots
+雪地靴 snow boots
+圣诞靴 santa boots
+鞋子 shoes
+厚底鞋 platform footwear
+尖头鞋 pointy footwear
+芭蕾舞鞋 ballet slippers
+运动鞋 sneakers
+旱冰鞋 roller skates
+溜冰鞋 ice skates
+钉鞋 spiked shoes
+高跟鞋 high heels
+玛丽珍鞋 mary janes
+乐福鞋 loafers
+女式学生鞋 uwabaki
+凉鞋 sandals
+木屐 geta
+拖鞋 slippers
+人字拖 flip-flops
+袜类
+
+不穿袜子 no socks
+短袜 socks
+日式厚底短袜 tabi
+丝袜 stockings
+圣诞袜 christmas stocking
+暖腿袜 leg warmers
+荷叶边袜子 frilled socks
+丝带边袜子 ribbon-trimmed legwear
+闪亮袜子 shiny legwear
+褶边长筒袜 frilled thighhighs
+过膝袜 thighhighs
+渔网袜 fishnet stockings
+堆堆袜 loose socks
+裤袜 leggings
+蕾丝裤袜 lace legwear
+罗纹裤袜 ribbed legwear
+湿连裤袜 wet pantyhose
+格子裤袜 plaid legwear
+透视裤袜 see-through legwear
+连裤袜 pantyhose
+撕裂的连裤袜 torn pantyhose
+单腿连裤袜 single leg pantyhose
+荷叶边连裤袜 frilled pantyhose
+柳丁吊袜带 studded garter belt
+吊袜带 sock dangle
+大腿系带 thigh strap
+腿部花边环 leg_garter
+包扎腿 bandaged leg
+尾&翅&角
+尾巴
+
+宝可梦尾巴 pokemon tail
+皮卡丘尾巴 pikachu tail
+水獭尾巴 otter tail
+蝎尾 scorpion tail
+鹿尾 deer tail
+黄鼠狼尾巴 weasel tail
+羊驼尾巴 alpaca tail
+恐龙尾巴 dinosaur tail
+企鹅尾巴 penguin tail
+羊尾巴 sheep tail
+山羊尾巴 goat tail
+海狸尾巴 beaver tail
+小熊猫尾巴 red panda tail
+豺尾巴 jackal tail
+食蚁兽尾巴 anteater tail
+土狼尾巴 aardwolf tail
+猎豹尾巴 panther tail
+熊猫尾巴 panda tail
+天使尾巴 Angel wings
+翅膀
+
+蝴蝶翅膀 Butterfly wings
+昆虫翅膀 insect wings
+蝙蝠翅膀 Bat wings
+鸟翼 bird wings
+羽翼 feathered wings
+妖精翅膀 Fairy wings
+龙之翼 Dragon wings
+恶魔之翼 Demon wings
+火焰翅膀 Fiery wings
+机械翅膀 Mechanical wings
+冰翅 ice crystal texture
+
+角
+
+羚羊角 antelope horns
+山羊角 goat horns
+羊角 sheep horns
+奶牛角 cow horns
+公牛角 ox horns
+鬼角 oni horns
+断角 broken horn
+机械角 mechanical horns
+恶魔之角 demon horns
+龙之角 dragon horns
+姿势
+姿态
+
+侧身坐 yokozuwari
+鸭子坐 ahirusuwari
+盘腿 indian style
+跪着 kneeling
+躬躯 arched back
+膝枕 lap pillow
+学猫叫 paw pose
+单膝跪地 one knee
+蜷起身子侧躺 fetal position
+仰卧 on back
+俯卧 on stomach
+坐着 sitting
+屈膝抱腿坐 hugging own legs
+立式跨骑 upright straddle
+站着 standing
+蹲着 squatting
+绑在十字架上 crucifixion
+双腿缠绕 leg lock
+四肢着地 all fours
+戴耳机 hand on headphones
+鬼姿势 ghost pose
+回头 turning around
+歪头 head tilt
+前倾 leaning forward
+手势
+
+嘘手势 shushing
+翘大拇指 thumbs up
+手放脑后 arms behind head
+手放身后 arms behind back
+手插口袋 hand in pocket
+双手插口袋 hands in pocket
+十指相扣 interlocked fingers
+V字手势 victory pose
+手在地板上 hand on floor
+手在额头上 hand on forehead
+手在肚子上 hand on own stomach
+手在肩膀上 arm over shoulder
+手搭别人的腿 hand on another's leg
+手搭别人的腰 hand on another's waist
+双手合十 own hands clasped
+翼展双臂 wide open arms
+手放嘴边 hand to mouth
+手枪手势 finger gun
+猫爪手势 cat pose
+视线
+
+远眺 looking afar
+照镜子 looking at mirror
+看手机 looking at phone
+看向别处 looking away
+透过刘海看 visible through hair
+透过眼镜看 looking over glasses
+面向观者 look at viewer
+靠近观者 close to viewer
+动态角度 dynamic angle
+舞台角度 dramatic angle
+凝视 stare
+向上看 looking up
+向下看 looking down
+看向旁边 looking to the side
+移开目光 looking away
+动作
+整体
+
+嗅闻 smelling
+公主抱 princess carry
+拥抱 hug
+背对背 back-to-back
+耶 peace symbol
+调整过膝袜 adjusting_thighhigh
+抓住 grabbing
+战斗姿态 fighting_stance
+走 walking
+跑 running
+跨坐 straddling
+跳 jump
+飞 fly
+靠墙 against wall
+躺 lie
+从背后抱 hug from behind
+遛狗 walk a dog
+提裙 skirt lift
+泡温泉 half body under water
+骑马 horse riding
+自拍 selfie
+一字马 standing split
+敬礼 salute
+祈祷 pray
+冥想 doing a meditation
+上半身
+
+伸懒腰 stretch
+托腮 gill support
+牵手 holding hands
+单手叉腰 hand_on_hip
+双手叉腰 hands_on_hips
+招手 waving
+撮头发 hair scrunchie
+拉头发 hair_pull
+抓别人的头发 grabbing another's hair
+竖中指 middle_finger
+弯腰 bent over
+亲吻脸颊 kissing cheek
+亲吻额头 kissing forehead
+踮起脚尖吻 tiptoe kiss
+头顶水果 fruit on head
+咬手套 glove biting
+脸贴脸 cheek-to-cheek
+手牵手 hand on another's hand
+双手交叉 crossed arms
+双手张开伸直 spread arms
+挥动手臂 waving arms
+伸出手臂 outstretched arm
+用手臂支撑 carrying
+搂着手臂 arm hug
+拿着 holding
+拿着餐刀 holding knife
+拿着枪 holding gun
+拿着杯子 holding cup
+拿着食物 holding food
+拿着书 holding book
+拿着魔杖 holding wand
+打着伞 holding umbrella
+捧着花 holding flower
+拿着麦克风 holding microphone
+抱着物品 object hug
+抱着心 holding heart
+环境
+四季朝暮
+
+春天 in spring
+夏天 in summer
+秋天 in autumn
+冬天 in winter
+黄昏 dusk
+夜晚 night
+秋景 (autumn maple forest:1.3)
+日月星辰
+
+太阳 sun
+落日 sunset
+月亮 moon
+满月 full_moon
+星星 stars
+天空 sky
+多云 cloudy
+雨天 rain
+冰雪 snow,ice
+雪花 snowflakes
+闪电 lighting
+彩虹 rainbow
+流星雨 meteor shower
+宇宙 universe
+天涯海角
+
+大海 sea
+山丘 hills
+草地 in a meadow
+海滩 on the beach
+水中 underwater
+海边 over the sea
+树林 grove
+沙漠 on a desert
+高原 plateau
+悬崖 cliff
+峡谷 canyon
+绿洲 oasis
+竹林 bamboo forest
+冰川 glacier
+浮岛 floating island
+火山 volcano
+大草原 savanna
+瀑布 waterfall
+溪流 stream
+荒地 wasteland
+稻田 rice paddy
+麦田 wheat field
+花田 flower field
+花海 flower sea
+室内场景
+
+室内 indoor
+窗帘 curtain
+床 bed
+浴室 bathroom
+厕所隔间 toilet stall
+宅男房间 otaku room
+自助餐厅 cafeteria
+教室 classroom
+俱乐部 clubroom
+沙龙 salon
+酒吧 bar
+居酒屋 izakaya
+咖啡馆 cafe
+面包店 bakery
+便利店 convenience store
+超市 supermarket
+书店 bookstore
+药店 pharmacy
+剧院 theater
+电影院 movie theater
+温室 greenhouse
+地库 dungeon
+健身房 gym
+医务室 infirmary
+实验室 laboratory
+图书馆 library
+工作坊 workshop
+舞台 stage
+法庭 courtroom
+城市建筑
+
+城堡 castle
+城市 city
+水上乐园 waterpark
+旋转木马 carousel
+摩天轮 ferris wheel
+水族馆 aquarium
+动物园 zoo
+保龄球馆 bowling alley
+美术馆 art gallery
+博物馆 museum
+天文馆 planetarium
+游泳池 swimming pool
+体育场 stadium
+寺庙 temple
+巴士车站 bus stop
+火车站 train station
+喷泉 fountain
+游乐场 playground
+市场摊位 market stall
+电话亭 phone booth
+铁轨 railroad tracks
+机场 airport
+隧道 tunnel
+背景氛围
+
+新年 new year
+兔年 year of the rabbit
+情人节 valentine
+元宵节 lantern festival
+夏日祭 summer festival
+七夕节 tanabata
+中秋节 mid-autumn festival
+万圣节 halloween
+圣诞节 christmas
+爆炸 explosion
+蒸汽 water vapor
+焰火 fireworks
+落地窗 ceiling window
+彩色玻璃 colourful glass
+染色玻璃 stain glass
+涂鸦墙 Graffiti wall
+马赛克背景 mosaic background
+液体背景 liquid background, 
+魔法环 magic circles
+荧光蘑菇森林 fluorescent mushroom 
+彩色泡泡 (((colorful bubble)))
+风格
+艺术风格
+
+8bit游戏 8 Bit Game
+80年代动画 1980s anime
+迪士尼电影 disney movie
+哥特摇滚 goth
+80年代电影 80s movie
+泡泡龙 bubble bobble
+皮克斯动画 style of Pixar
+宝丽来艺术 Polaroid art
+万花筒摄影 Kaleidoscope Photography
+欧泊渲染 opal render
+色谱图 chemigram
+吉卜力风格 Studio Ghibli
+梦幻 dreamlike
+签绘风格 (faux traditional media)
+原神冲击 genshin impact
+碧蓝航线 azur lane
+舰队收藏 kantai collection
+边缘行者 rebecca (cyberpunk)
+电锯人 chainsaw man
+魔法旋涡 Magic Vortex
+柴油朋克 ((dieselpunk))
+四格 4koma
+杂志扫描 magazine scan
+专辑封面 album cover
+线条变粗 (lineart)
+蒸汽波 synthwave
+现实的realistic
+超现实主义hyperrealism
+动画片cartoon
+水墨画ink painting
+动漫anime
+波普艺术pop art
+中式chinese-style
+3d 3d
+抽象abstract
+赛博朋克cyberpunk
+肖像portrait
+矢量艺术vector art
+水彩watercolor
+沙画sand painting
+中国古代风格ancient chinese style
+麦得马克思madmax
+好莱坞风格hollywood-style
+沙丘dune
+星球大战star wars
+英雄联盟league of legends
+梦工厂图片dreamworks pictures
+电影cinematic
+皮克斯pixar
+宝可梦pokemon
+幻想fantasy
+盲盒玩具风格blind box toy style
+合成波synthwave
+当代艺术contemporary art
+游戏风格game art
+时尚fashion
+电影摄影film photography
+极简主义minimalism
+y2k Y2K
+像素艺术pixel art
+复古vintage
+装饰艺术风格art deco style
+及普利工作室ghibli studio
+环保风格eco-friendly style
+至上主义supermatism
+材料设计material design
+巴洛克风格baroque
+野兽主义fauvism
+印象派impressionism
+机械风格mechanical style
+调性主义tonalism
+复杂sophisticated
+文艺复兴renaissance
+部分解剖学partial anatomy
+战框awrframe
+18-19世纪风格18-19th century-style
+菌丝体mycelium
+照片真实photoreal
+神秘幻想mystic fantasy
+哥特goth
+日本浮世绘japanese ukiyo-e
+轻电风格light-electric style
+野蛮主义者brutalist
+法国艺术french art
+室内设计interior design
+图书页面book page
+雕刻艺术carving art
+墨水渲染ink render
+工业industrial
+乡村风格country stylr
+水墨水洗绘画风格ink wash painting style
+民族艺术ethnic art
+传统艺术traditional culture
+日本漫画manga
+未来主义风格futuristic style
+种族ethnic
+包豪斯bauhaus
+新中式风格new chinese style
+森林forest
+维多利亚时代的victorian
+沉浸式设计immersive design
+现代风格modern-style
+迪士尼风格disney-style
+美国国家american country
+魔幻现实主义magic realism style
+草原prairie
+洛丽塔lolita
+现代奢华modern luxury
+彩色玻璃窗stained glass window
+运动设计motion design
+手写风格handwriting style
+色场绘画color field painting
+黑白black and white
+达达主义dadaism
+丙烯画acrylic painting
+蒸汽朋克steampunk
+点彩主义pointillism
+传统中国水墨画tradition chinese ink painting
+未来主义的futuristic
+涂鸦doodle
+体积volumetric lihht
+动作绘画的action painting
+概念艺术concept art
+平面设计flat design
+90年代电子游戏90s vedio game
+新的印刷风格new print style
+埃尔赫herge
+线条艺术line art
+北方文艺复兴northern renaissance
+童话风格fairy tale style
+科幻小说science fiction
+微型电影风格miniature movie style
+美国宣传海报american propaganda poster
+黑色纸浆pulp noir
+故障艺术glitch art
+国家地理national geographic
+日本平面设计海报poster of japanese graphic design
+武器设计weapon design
+超现实主义surrealism
+浪漫主义romanticism
+股票插图风格stock illustration style
+建筑素描architectural sketching
+海洋ocean
+新古典主义neoclassical
+立体主义cubism
+蒙太奇montage
+上古卷轴the elder scrolls
+手绘风格hand-drawn style
+墨水插图ink illustration
+现代极简主义modern minimalist
+建构主义者contructivist
+电影摄影风格cinematography style
+启示录废墟apocalypse ruins
+抽象艺术abstract art
+绘画painting
+氰型cyanotype
+纸上彩色墨水color ink on paper
+阿什坎学校ashcan school
+社会现实主义social realism
+清晰的面部特征clear facial features
+图形墨水渲染graphic ink pender
+
+
+
+艺术类型
+
+单色图片 monochrome
+拼贴艺术 Collage
+彩色玻璃工艺 Dalle de verre
+像素画 pixel art
+瓷画 Encaustic painting
+水墨画 Ink wash painting
+铜版雕刻 Mezzotint
+剪影 silhouette
+插画 illustration
+水彩画 (((ink))), ((watercolor))
+彩铅画 (watercolor pencil)
+
+艺术派系
+
+新艺术主义 ((art nouveau))
+古典主义 ((classicism))
+未来主义 ((futurism))
+达达主义 ((Dadaism))
+抽象艺术 ((abstract art))
+ASCII艺术 ((ASCII art))
+艺术家风格
+
+穆夏风格 ((alphonse mucha))
+莫奈风格 ((Monet style))
+光照
+
+轮廓光 rim light
+体积光 Volumetric Lighting
+霓虹灯 glowing neon lights
+电影级光照 Cinematic Lighting
+透镜光晕 lens flare
+金属光泽 metallic luster
+氛围光照 moody lighting
+丁达尔效应 Tyndall effect
+漏光光效 light leaks
+背景光 background light
+柔和照明soft illumination
+自然光natural light
+冷光cold light
+室内照明indoor lighting
+运动模糊motion blur
+电影照明cinematic lighting
+胶片谷物film grain
+明亮bright
+景深depth of field
+阳光sun light
+工作室照明studio lighting
+点灯point light
+前置照明front lighting
+面板灯panel light
+实时照明real-time lighting
+色差chromatic aberration
+发光的光glowing light
+光学错觉optical illusion
+纹理光texture light
+全球照明global illumonations
+光线追踪ray tracing
+户外照明outdoor lighting
+晨光morning light
+头发发光hair glow
+黄昏射线crepuscular ray
+发射材料emissive material
+激光束效应laser beam effect
+半色调halftone
+hdr照明hdr lighting
+闪闪发光sparkle
+发光文本glowing text
+速度线speed lines
+聚光灯spot light
+彩虹光环rainbow halo
+环境光ambient light
+区域灯area light
+硬照明hard lighting
+抖动dithering
+在黑暗中发光glow in the dark
+分体式照明split lighting
+背光back lighting
+轮管照明rim lighting
+字形anaglyph
+定向光directional light
+体积照明volumetric lighting 
+阴影之光shadow light
+多个单色multiple monochrome
+运动线motion lines
+荧光灯fluorescent lighting
+戏剧性的照明dramatic lighting
+伦勃朗照明rembrandt lighting
+图像填充image fill
+暗光效果dim light efect
+频闪灯strobe light
+扫描线scanlines
+反射光reflection light
+情绪照明mood lighting
+立体图stereogram
+半球光hemisphere light
+
+
+
+颜色
+薰衣草Lavender
+蒂芙尼蓝tiffany blue
+景泰蓝cloisonne blue
+反射透明彩虹色Reflections Transparent Iridescent Colors
+中国红chinese red
+雳兰蓝和芥末uranian blue and mustard
+绿松石Turquoise
+爱马仕橙色hermes orange
+青色cyan
+蔚蓝azure
+莫兰迪颜色morandi color
+腮红blush
+水aqua
+复古颜色retro color
+钴蓝cobalt blue
+森林绿色forest green
+凿 gouge
+克莱因蓝klein blue
+暗灰色和收获金黄dim gray and harvest gold
+黄金梦golden dream
+暮色twilight color
+茶绿tea green
+天蓝色sky blue
+稳定的蓝色 steady blue
+时尚灰色fashionable gray
+黄色和黑色色调yellow and black tones
+钛 titanium
+浅粉色 soft pink
+极简主义的黑白 minimalist black and white
+金色和银色色调 gold and silver tones
+柠檬黄 lemon yellow
+象牙白 lvory white
+薄荷绿 mint green
+明亮的橙色 bright orange
+石墨黑 graphite black
+黑色背景居中 black background centered
+奢华的金黄色 luxurious gold
+枫叶红 maple red
+激光糖果纸颜色laser candy paper color
+玫瑰金rose gold
+勃艮第burgundy
+秋天的棕色autumn brown
+霓虹灯罩neon shades
+珊瑚coral
+紫罗兰violet purple
+山蓝mountain blue
+胡萝卜红 carrot red
+天然绿色natural green
+新鲜水果 fresh fruits
+水晶蓝 crystal blue
+荧光fluorescence
+经典红色黑色和白色classic red black and white
+暖棕色 warm brown
+牛仔蓝 denim blue
+红色和黑色色调red and black tones
+棕褐色 tan
+日落渐变 sunset gradient
+果冻颜色 jelly color
+
+构图
+佳能canon
+富士胶片fujifilm
+索尼sony fe gm
+超宽镜头ultrawide shot
+特写close up
+黄金比例组成golden ratio composition
+鸟瞰图bird view
+全身full body
+广阔的视野an expansive view of
+bokeh
+个人档案profile
+纹理texture
+头出框head out of frame
+信箱letterboxed
+剪下构图cut out composition
+残影afterimage
+拼贴组成collage composition
+宽视角wide view
+三分规则组成rule of thirds composition
+径向成分radial composition
+动态对称组成dynamic symmetry composition
+观点组成point of view composition
+对比度组成contrast composition
+负空间组成negative space composition
+不对称组成asymmetrical composition
+拆分互补组成split complementary composition
+水平组成horizontal composition
+对称组成symmetrical composition
+圆角rounded corners
+消失点组成vanishing point composition
+宏观拍摄macro shot
+深度depth
+框架构成framing composition
+过度暴露overexposure
+极端特写extreme close up
+前视图front view
+S形构图s-shaped composition
+对称体symmetrical body
+对角线构图diagonal composition
+重叠构图overlapping composition
+饱和构图satyrated composition
+顶视图top view
+褪色的边界fading border
+收敛线组成converging lines composition
+向上视图up view
+曼德尔布罗特mandelbrot
+头部拍摄headshot
+重复构图repetition composition
+部分水下拍摄partially underwater shot
+焦点构图focal point composition
+非线性构图nonlinear composition
+镜头耀斑lens flare
+半身像busts
+阵容lineup
+并列构图juxtaposition composition
+隔离组成isolation composition

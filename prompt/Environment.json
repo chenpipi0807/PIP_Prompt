@@ -1,0 +1,46 @@
+[
+    {
+        "name": "none",
+        "prompt": ""
+    },
+    {
+        "name": "春天",
+        "prompt": "in spring"
+    },
+    {
+        "name": "夏天",
+        "prompt": "in summer"
+    },
+    {
+        "name": "秋天",
+        "prompt": "in autumn"
+    },
+    {
+        "name": "冬天",
+        "prompt": "in winter"
+    },
+    {
+        "name": "黄昏",
+        "prompt": "dusk"
+    },
+    {
+        "name": "夜晚",
+        "prompt": "night"
+    },
+    {
+        "name": "满月",
+        "prompt": "full_moon"
+    },
+    {
+        "name": "星空",
+        "prompt": "starry sky"
+    },
+    {
+        "name": "海滩",
+        "prompt": "on the beach"
+    },
+    {
+        "name": "城市",
+        "prompt": "city"
+    }
+]
