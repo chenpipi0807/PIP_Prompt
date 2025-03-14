@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_pip_prompt"
+description = "A ComfyUI custom node that provides enhanced prompt management and manipulation capabilities for text-to-image workflows."
+version = "1.0.0"
+license = {text = "MIT"}
+dependencies = ["# No specific external requirements needed for this node", "# Base ComfyUI environment is sufficient"]
+
+[project.urls]
+Repository = "https://github.com/chenpipi0807/PIP_Prompt"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "PIP Prompt Manager"
+Icon = ""
